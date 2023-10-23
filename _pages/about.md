@@ -30,4 +30,4 @@ Hi, I am an undergraduate student majoring in **Artificial Intelligence** at Sha
 
 
 # 💻 Internships
-- *2023.1 - (now)*, [MVIG-RHOS](https://mvig-rhos.com), Shanghai Jiao Tong University.
+- *2023.01 - (now)*, [MVIG-RHOS](https://mvig-rhos.com), Shanghai Jiao Tong University.
