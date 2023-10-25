@@ -16,18 +16,44 @@ redirect_from:
 {% assign url = gsDataBaseUrl | append: "google-scholar-stats/gs_data_shieldsio.json" %}
 
 <span class='anchor' id='about-me'></span>
-Hi, I am an undergraduate student majoring in **Artificial Intelligence** at Shanghai Jiao Tong University.
+Hi, I am Zizheng Zhou, an undergraduate student majoring in **Artificial Intelligence** at Shanghai Jiao Tong University.
 
 
 
 # 📝 Publications 
 
 
-
 # 📖 Educations
-- *2021.09 - (now)*, Shanghai Jiao Tong University
 
+<div class='logo-box'>
+  <div class='logo-box-image'>
+    <div>
+      <img src='images/sjtu.png' alt="Shiyan" width="100%">
+    </div>
+  </div>
+  <div class='logo-box-text' markdown="1">
 
+  **2021.09 - (now)**
+
+  [Shanghai Jiao Tong University](https://en.sjtu.edu.cn)
+
+  </div>
+</div>
+
+<div class='logo-box'>
+  <div class='logo-box-image'>
+    <div>
+      <img src='images/sy.png' alt="Shiyan" width="100%">
+    </div>
+  </div>
+  <div class='logo-box-text' markdown="1">
+
+  **2018.09 - 2021.06**
+
+  [Shandong Experimental High School](http://sdshiyan.jinan.cn/col/col5154/index.html)
+
+  </div>
+</div>
 
 # 💻 Internships
-- *2023.01 - (now)*, [MVIG-RHOS](https://mvig-rhos.com), Shanghai Jiao Tong University.
+- **2023.01 - (now)**, [MVIG-RHOS](https://mvig-rhos.com), Shanghai Jiao Tong University.
