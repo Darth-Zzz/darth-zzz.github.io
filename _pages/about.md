@@ -28,7 +28,7 @@ Hi, I am Zizheng Zhou, an undergraduate student majoring in **Artificial Intelli
 <div class='logo-box'>
   <div class='logo-box-image'>
     <div>
-      <img src='images/sjtu.png' alt="Shiyan" width="100%">
+      <img src='images/sjtu.png' alt="SJTU">
     </div>
   </div>
   <div class='logo-box-text' markdown="1">
@@ -43,7 +43,7 @@ Hi, I am Zizheng Zhou, an undergraduate student majoring in **Artificial Intelli
 <div class='logo-box'>
   <div class='logo-box-image'>
     <div>
-      <img src='images/sy.png' alt="Shiyan" width="100%">
+      <img src='images/sy.png' alt="Shiyan">
     </div>
   </div>
   <div class='logo-box-text' markdown="1">
