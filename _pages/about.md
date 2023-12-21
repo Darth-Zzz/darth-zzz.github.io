@@ -55,5 +55,5 @@ Hi, I am Zizheng Zhou, an undergraduate student majoring in **Artificial Intelli
   </div>
 </div>
 
-# 💻 Internships
+# 💻 Experiences
 - **2023.01 - (now)**, [MVIG-RHOS](https://mvig-rhos.com), Shanghai Jiao Tong University.
