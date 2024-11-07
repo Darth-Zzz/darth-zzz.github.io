@@ -2,12 +2,18 @@
 main:
   - title: "About Me"
     url: "/#about-me"
+    
+  - title: "Education"
+    url: "/#Education"
+
+  - title: "Experiences"
+    url: "/#Experiences"
 
   - title: "Publications"
-    url: "/#-publications"
+    url: "/#Publications"
 
-  - title: "Educations"
-    url: "/#-educations"
+  - title: "Services"
+    url: "/#Services"
+  # - title: "Curriculum Vitae"
+  #   url: "./assets/CV.pdf"
 
-  - title: "Internships"
-    url: "/#-internships"

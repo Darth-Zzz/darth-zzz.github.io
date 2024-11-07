@@ -46,20 +46,21 @@
     align-items: center;
     flex-direction: row;
     flex-wrap: wrap;
-    border-bottom: 1px #efefef solid;
+    // border-bottom: 1px #efefef solid;
     padding: 2em 0 2em 0;
     
 
     .paper-box-image{
-        justify-content: center;
+        justify-content: left;
         display: flex;
         width: 100%;
         order: 2;
         img {
-            max-width: 400px;
+            max-width: 170px;
             box-shadow: 3px 3px 6px #888;
             object-fit: cover;
         }
+        padding-left: 2em;
     }
     
     .paper-box-text{
@@ -70,15 +71,15 @@
     @include breakpoint($medium) {
         .paper-box-image{
             justify-content: left;
-            min-width: 200px;
-            max-width: 40%;
+            min-width: 50px;
+            max-width: 30%;
             order: 1;
         }
         
         .paper-box-text{
             justify-content: left;
             padding-left: 2em;
-            max-width: 60%;
+            max-width: 70%;
             order: 2;
         }
 
@@ -93,21 +94,21 @@
     align-items: center;
     flex-direction: row;
     flex-wrap: wrap;
-    border-bottom: 1px #efefef solid;
+    // border-bottom: 1px #efefef solid;
     padding: 2em 0 2em 0;
 
     .logo-box-image{
-        justify-content: left;
+        justify-content: center;
         display: flex;
         width: 100%;
         order: 1;
         img {
-            max-width: 75px;
-            box-shadow: 3px 3px 6px #888;
+            max-width: 85px;
+            // box-shadow: 3px 3px 6px #888;
             object-fit: cover;
             box-shadow: 0 0;
         }
-        padding: 1em 0 1em 0
+        padding: 1em 10em 1em 5em;
     }
     
     .logo-box-text{
