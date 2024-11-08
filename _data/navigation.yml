@@ -14,6 +14,6 @@ main:
 
   - title: "Services"
     url: "/#Services"
-  # - title: "Curriculum Vitae"
-  #   url: "./assets/CV.pdf"
+  - title: "Curriculum Vitae"
+    url: "./files/CV.pdf"
 

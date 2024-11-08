@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 <h1 style="border-bottom: 0; margin-bottom: 0; padding-bottom: 0.4em"> Hello there!</h1>
-I am Zizheng Zhou, a senior undergraduate student majoring in **Artificial Intelligence** at Shanghai Jiao Tong University. I am also a member of [Guozhi Class](http://www.qingyuan.sjtu.edu.cn/c/Introductiongzb) (A training program for top-notch talents in AI, held by [Prof. Cewu Lu](https://www.mvig.org) and [Prof. Xiaoou Tang](https://www.ie.cuhk.edu.hk/faculty/Tang-Xiaoou-Sean/)).
+I am Zizheng Zhou, a senior undergraduate student majoring in **Artificial Intelligence** at Shanghai Jiao Tong University. I am also a member of [Guozhi Class](http://www.qingyuan.sjtu.edu.cn/c/Introductiongzb) (A program for top-notch talents in AI, held by [Prof. Cewu Lu](https://www.mvig.org) and [Prof. Xiaoou Tang](https://www.ie.cuhk.edu.hk/faculty/Tang-Xiaoou-Sean/)).
 
 Currently, I am fortunate to collaborate with [Dr. Kelvin C.K. Chan](https://ckkelvinchan.github.io), [Dr. Yu-Chuan Su](https://sammy-su.github.io) and [Prof. Ming-Hsuan Yang](https://faculty.ucmerced.edu/mhyang/). Previously, I worked as an undergraduate researcher with [Prof. Yong-Lu Li](https://dirtyharrylyl.github.io), supervised by [Prof. Cewu Lu](https://mvig-rhos.com).
 
@@ -149,7 +149,7 @@ Currently, I am fortunate to collaborate with [Dr. Kelvin C.K. Chan](https://ckk
   </p>
   
   <p>
-    January, 2024 - March, 2024
+    June, 2023 - March, 2024
     <br>Shanghai, China
   </p>
   
