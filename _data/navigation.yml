@@ -6,14 +6,15 @@ main:
   - title: "Education"
     url: "/#Education"
 
-  - title: "Experiences"
-    url: "/#Experiences"
+  - title: "Experience"
+    url: "/#Experience"
 
   - title: "Publications"
     url: "/#Publications"
 
   - title: "Services"
     url: "/#Services"
+
   - title: "Curriculum Vitae"
     url: "./files/CV.pdf"
 
