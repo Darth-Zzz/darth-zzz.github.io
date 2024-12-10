@@ -186,7 +186,7 @@ Currently, I am fortunate to collaborate with [Dr. Kelvin C.K. Chan](https://ckk
   <div class='paper-box-image'>
     <div>
       <div class='badge'>
-      Under Review
+      AAAI 2025
       </div>
       <img src='images/gio.png'>
     </div>
@@ -195,7 +195,7 @@ Currently, I am fortunate to collaborate with [Dr. Kelvin C.K. Chan](https://ckk
   <p>
     <i>Interacted Object Grounding in Spatio-Temporal Human-Object Interactions</i>
     <br>
-    Boran Wen*, Xiaoyang Liu*, <b>Zizheng Zhou</b>, Hongwei Fan, Xinpeng Liu, Yong-Lu Li, Cewu Lu
+    Xiaoyang Liu*, Boran Wen*, Xinpeng Liu, <b>Zizheng Zhou</b>, Hongwei Fan, Cewu Lu, Lizhuang Ma, Yulong Chen, Yong-Lu Li 
   </p>
   </div>
 </div>
